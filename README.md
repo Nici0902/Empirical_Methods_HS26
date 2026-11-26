@@ -9,10 +9,10 @@ https://doi.org/10.1086/730321, and for our extension (fixed vs. random effects 
 
 ## Quick start
 
-Set the working directory to this folder and run the master script:
+Download and extract the repository. Set the working directory to the PS3 folder and run the master script:
 
 ```r
-setwd("<path>/ps3-replication/PS3")
+setwd("<path>/Empirical_Methods_HS26/PS3")
 source("code/00_run_all.R")
 ```
 
