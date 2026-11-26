@@ -9,7 +9,7 @@ https://doi.org/10.1086/730321, and for our extension (fixed vs. random effects 
 
 ## Quick start
 
-All files of the replication are in the folder `PS3/`. Set the working directory to this folder and run the master script:
+Set the working directory to this folder and run the master script:
 
 ```r
 setwd("<path>/ps3-replication/PS3")
